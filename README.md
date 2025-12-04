@@ -19,14 +19,14 @@
 在 Xcode 中，选择 File → Add Package Dependencies，然后输入此仓库的 URL：
 
 ```
-https://github.com/your-username/SVGAPlayer-SPM
+https://github.com/rogertan30/SVGAPlayer-SPM
 ```
 
 或者直接在 `Package.swift` 中添加依赖：
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-username/SVGAPlayer-SPM", from: "1.0.0")
+    .package(url: "https://github.com/rogertan30/SVGAPlayer-SPM", from: "1.0.0")
 ]
 ```
 
